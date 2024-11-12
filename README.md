@@ -1,6 +1,6 @@
 YO!! I'm Neil!
 Please use he/they/it pronouns
-I'm a french highsciooler learning code in class.
+I'm a french highschooler learning code in class.
 Don't mind me, i migt just look around and stuff.
 i'm cool btw
 <!---
